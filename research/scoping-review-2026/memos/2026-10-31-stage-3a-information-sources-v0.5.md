@@ -47,3 +47,7 @@ Four core candidates are reasonable but not automatically sufficient. Database s
 ## Reflective note
 
 The design should capture scholarship crossing educational policy, organisational change, programme design and practice-based inquiry without demanding an infeasible worldwide institutional website search. A specialist education database might contribute relevant unique studies; its value should be tested rather than assumed.
+
+## Publication-type refinement — 31 October 2026 (provisional)
+
+The preferred boundary is to include journal research articles and completed doctoral theses (including professional doctorates), without excluding practice-based/led doctoral research. Master's dissertations would be excluded as a proportionate source-type boundary, not because their research is necessarily inferior. Scholarly books and edited chapters would ordinarily support the wider doctoral literature review rather than form part of the formal scoping review; this sacrifices some original research and must be acknowledged. Existing research reviews would primarily support contextualisation and citation searching, with a final decision on eligibility to follow. Reports of the same investigation (e.g. a thesis and associated article) should be linked as reports of one study rather than counted as independent studies. These positions remain provisional until publication-type criteria are finalised.

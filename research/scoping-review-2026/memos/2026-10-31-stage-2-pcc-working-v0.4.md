@@ -34,3 +34,7 @@ A broad population and international context do not necessarily create an unmana
 ## Methodological reference
 
 JBI Manual for Evidence Synthesis, Scoping Reviews, sections 10.2.3–10.2.4 (2026 revision), https://jbi-global-wiki.refined.site/space/MANUAL/355862707/10.2.4%2BDeveloping%2Band%2Baligning%2Bthe%2Beligibility%2Bcriteria%2Bwith%2Bthe%2Bobjective%2Fs%2Band%2Bquestion%2Fs
+
+## Addendum — eligible research approaches (31 October 2026)
+
+Practice-based and practice-led research are explicitly eligible alongside qualitative, quantitative, mixed-methods, action, participatory, design-based and relevant conceptual/theoretical research. Eligibility is determined by the review's substantive learner-centred and institutional relationship criteria, not by a hierarchy of research designs. Practice-based work should make an identifiable research contribution rather than consist only of an unanalysed description of an artefact or activity. Research approach will be recorded during data charting, permitting examination of how enactment has been investigated across methodological traditions. This inclusion decision does not confer preferential treatment on practice-based studies.

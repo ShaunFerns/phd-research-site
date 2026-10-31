@@ -59,3 +59,7 @@ Prior bibliographic exploration indicated recurring overlap between ProQuest doc
 ## Date-limit implementation note — 31 October 2026
 
 Database interfaces differ in the precision and reliability of date filters. Use publication-year limits at source where practical, preserving exact query/limits and initial retrieval counts. Export records with original bibliographic metadata to Zotero for uniform assessment against the predeclared publication boundary of 1 January 2015–30 September 2026. Date filtering should be logged as an explicit removal/exclusion stage, not silently performed. Incomplete or ambiguous dates, online-first versus issue dates, and metadata discrepancies require verification before a final eligibility decision. Maintain source-specific counts and an audit trail that permits PRISMA-ScR reporting. Test Zotero's ability to distinguish precise dates from year-only records before relying on automated boundary filtering.
+
+## Workflow correction — 31 October 2026
+
+Agreed order following database export: **(1) export to Zotero, (2) apply the publication-date eligibility boundary and verify ambiguous dates, (3) deduplicate the date-eligible records, (4) proceed to substantive screening.** Preserve original source-specific counts and a record of date removals for reporting. Checking dates before deduplication may mean duplicate out-of-window entries occur in the date-removal count; report the ordering transparently rather than treating all removals as unique studies. Avoid relying on year-only metadata for the 30 September 2026 cut-off.

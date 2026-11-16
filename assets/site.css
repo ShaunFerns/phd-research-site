@@ -21,3 +21,10 @@ body{margin:0;background:#f7f4ef;color:#1f2933;font-family:Roboto,Arial,Helvetic
 .reveal .street-next{margin-top:20px;text-align:left;background:#e8f1f4;border-left:5px solid #F0813C;border-radius:12px;padding:14px 20px;font-size:clamp(1rem,1.6vw,1.25rem);line-height:1.4}
 .reveal .street-next strong{color:#004C6C}
 @media(max-width:900px){.reveal .slides section.street-slide{padding:8px}.reveal .street-slide .slide-grid{gap:9px;margin-top:12px}.reveal .street-slide .slide-grid>div{padding:11px}.reveal .street-next{margin-top:10px;padding:10px 14px}}
+
+/* Research activity table */
+.reveal table.research-tasks{width:100%;border-collapse:collapse;margin:14px auto 0;font-size:clamp(.78rem,1.23vw,1rem);line-height:1.2;text-align:left}
+.reveal .research-tasks th{color:#004C6C;background:#e8f1f4;font-weight:700;padding:8px 13px;border-bottom:2px solid #004C6C}
+.reveal .research-tasks td{padding:7px 13px;border-bottom:1px solid #d8d3ca;vertical-align:top;color:#1f2933}
+.reveal .research-tasks td:first-child{width:23%;font-weight:700;color:#004C6C}
+.reveal .research-tasks tr:nth-child(even) td{background:rgba(232,241,244,.45)}

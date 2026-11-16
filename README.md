@@ -15,7 +15,7 @@ The project is in its first-year evidence-building phase. Current work includes:
 - a JBI-guided scoping review reported using PRISMA-ScR;
 - a longitudinal public-document corpus across Irish higher education institutions, sectors and organisational transitions;
 - development of the analytical and methodological basis for later comparative case-study research;
-- continued testing of the proposed practice-based documentary strand rather than fixing its final form in advance.
+- development of an analytic documentary in the later practice-based phase, informed by substantive analytical and empirical findings.
 
 The public site records selected research progress only. Detailed protocols, search histories, screening records, methodological memos, supervision materials and research data are maintained separately in a private version-controlled workspace.
 
